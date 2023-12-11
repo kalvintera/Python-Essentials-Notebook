@@ -2,5 +2,4 @@
 .idea
 .python-version
 .ipynb_checkpoints
-api/__pycache__
-processor/__pycache__
+__pycache__/
