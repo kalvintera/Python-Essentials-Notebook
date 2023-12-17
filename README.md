@@ -42,7 +42,7 @@ Das Projekt verwendet folgende Pakete:
 - *black:* Für die Code-Formatierung.
 
 ## Nutzung
-Führen Sie main.py aus, um die Skripte zu starten, oder öffnen Sie uebungen.ipynb [Übungen Notebook](uebungen.ipynb)in Jupyter, um interaktiv mit den Python-Beispielen zu arbeiten.
+Führen Sie main.py aus, um die Skripte zu starten, oder öffnen Sie uebungen.ipynb [Übungen Notebook](uebungen.ipynb) in Jupyter, um interaktiv mit den Python-Beispielen zu arbeiten.
 
 ## Mitwirken
 
