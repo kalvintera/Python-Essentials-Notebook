@@ -19,7 +19,7 @@ Das Hauptskript, das die Funktionen der anderen Module nutzt.
 
 ## Setup
 - Klonen Sie das Repository.
-- Installieren Sie die erforderlichen Abhängigkeiten aus der Pipfile.
+- Installieren Sie die erforderlichen Abhängigkeiten aus dem Pipfile.
 - Erstellen Sie eine .env-Datei im Projektverzeichnis und fügen Sie Ihren OMDb API-Schlüssel hinzu:
 
 ```
@@ -42,7 +42,7 @@ Das Projekt verwendet folgende Pakete:
 - *black:* Für die Code-Formatierung.
 
 ## Nutzung
-Führen Sie main.py aus, um die Skripte zu starten, oder öffnen Sie uebungen.ipynb in Jupyter, um interaktiv mit den Python-Beispielen zu arbeiten.
+Führen Sie main.py aus, um die Skripte zu starten, oder öffnen Sie uebungen.ipynb [Übungen Notebook](uebungen.ipynb)in Jupyter, um interaktiv mit den Python-Beispielen zu arbeiten.
 
 ## Mitwirken
 
